@@ -9,7 +9,9 @@ model = model_data['model']
 label_encoders = model_data['label_encoders']
 
 # Load dataset for dropdown options
+
 data = pd.read_csv('commodity_prices.csv')
+
 
 # Extract dropdown values
 states = sorted(data['State'].dropna().unique())
