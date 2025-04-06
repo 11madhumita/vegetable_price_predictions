@@ -46,5 +46,5 @@ Pandas, Scikit-learn
 Streamlit
 
 🖥️ Try it out
-🔗 Live Demo: Click here to open the app
+🔗 Live Demo: https://11madhumita-vegetable-price-predictions-app-9nwwdc.streamlit.app/
 
